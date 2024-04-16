@@ -1,0 +1,15 @@
+.top{
+  color: whitesmoke;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  // border: 1px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h1{
+      font-size: 140px;
+  }
+}
